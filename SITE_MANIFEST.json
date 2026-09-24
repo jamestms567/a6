@@ -1,0 +1,207 @@
+{
+  "domain": "equationdial",
+  "niche": "Haute Horology & Equationdial Chronometers",
+  "design_concept": "Warm Sepia & Roasted Timber Atelier",
+  "archetype_id": "sepia_timber",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "equationdial_asset_12.jpg",
+      "size_kb": 99.1,
+      "md5": "5964d38b927320e6d7e8ae4d5892f2d0",
+      "description": "Watch hands of Poljot Buran chronog",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "equationdial_asset_17.jpg",
+      "size_kb": 189.32,
+      "md5": "5c3ee21cf2bd84c3975c78a1c63b8148",
+      "description": "Chronograph watch Guinand 60.50 w",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "equationdial_asset_18.jpg",
+      "size_kb": 159.52,
+      "md5": "73495c8edd63f60db86bdf329c7d10bc",
+      "description": "Citizen quartz chronograph watch wi",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "equationdial_asset_19.jpg",
+      "size_kb": 157.09,
+      "md5": "63b9b56ff1fe3ed1b8c8e1336aa6d6cd",
+      "description": "Detailed view on chronograph pusher",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "equationdial_asset_20.jpg",
+      "size_kb": 106.46,
+      "md5": "6edb37bc52b39e0f6adaa2a9e99f3e5e",
+      "description": "Detailed view on chronograph pusher",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "equationdial_asset_21.jpg",
+      "size_kb": 125.89,
+      "md5": "f8d9a0821559788247f5c465c11503b6",
+      "description": "Dial detail of chronograph watch G",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "equationdial_asset_22.jpg",
+      "size_kb": 193.22,
+      "md5": "eae5902bfa092c0dfaedfc23d7298709",
+      "description": "Festina chronograph watches in a Ge",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "equationdial_asset_23.jpg",
+      "size_kb": 174.46,
+      "md5": "8152538dc362dc53356639d94f3aa928",
+      "description": "Festina chronograph watches in a Ge",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "equationdial_asset_24.jpg",
+      "size_kb": 196.0,
+      "md5": "33c612afdaf97a574dd46c22ffff21ec",
+      "description": "Jacques Lemans quartz chronograph w",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "equationdial_asset_25.jpg",
+      "size_kb": 274.49,
+      "md5": "a5a40ed31689149049e68ca77c759644",
+      "description": "Jacques Lemans quartz chronograph w",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "equationdial_asset_26.jpg",
+      "size_kb": 265.19,
+      "md5": "d84b13a47ba0f4c5443539c6fa024bad",
+      "description": "OMEGA Speedmaster CK2915 cropped t",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "equationdial_asset_27.jpg",
+      "size_kb": 166.69,
+      "md5": "4c448497e6f70b02de0cce8c5e2f8d79",
+      "description": "Seiko automatic chronograph 6139 P",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "equationdial_asset_28.jpg",
+      "size_kb": 60.6,
+      "md5": "9ff5d0f1d220cf4061ae7f8f7289fbbf",
+      "description": "Tachymeter scale and stop watch pus",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "equationdial_asset_29.jpg",
+      "size_kb": 126.08,
+      "md5": "da650185186eaddb4f8b99c1fb0757b9",
+      "description": "Tachymeter scale bezel",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "equationdial_asset_30.jpg",
+      "size_kb": 167.07,
+      "md5": "d7eaa2f99d7d39a6d1689f5da8fca44e",
+      "description": "Two Festina chronograph watches in",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "equationdial_asset_31.jpg",
+      "size_kb": 199.7,
+      "md5": "e7169596f834edbebcb0f24bb289dc1f",
+      "description": "Dan Henry watches 2016 models",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "equationdial_asset_32.jpg",
+      "size_kb": 134.88,
+      "md5": "6f3939c2e009916f15f0c2acc64dc915",
+      "description": "Detail of Heuer Calculator watch P5",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "equationdial_asset_33.jpg",
+      "size_kb": 144.53,
+      "md5": "5da0b2785990d794e61358dbb2a7f914",
+      "description": "Omega Seamaster chronograph watch",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "equationdial_asset_34.jpg",
+      "size_kb": 152.57,
+      "md5": "7caa1dc882fb5885780cf944d4db2187",
+      "description": "Omega Seamaster chronograph watch",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "equationdial_asset_35.jpg",
+      "size_kb": 73.19,
+      "md5": "0eca771fc15ca18ad0551f5cd0981a4f",
+      "description": "Part of calculation scale on Heuer",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://equationdial.com/sitemap.xml",
+    "robots": "https://equationdial.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
